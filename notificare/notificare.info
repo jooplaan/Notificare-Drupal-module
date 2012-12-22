@@ -1,0 +1,9 @@
+name = Notificare
+description = Use the Notificare service
+version = "7.0.1"
+package = Services
+core = 7.x
+configure = admin/config/workflow/notificare
+files[] = notificare.rules.inc
+files[] = notificare.module
+
