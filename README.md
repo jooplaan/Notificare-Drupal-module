@@ -7,7 +7,7 @@ It is not fully functional yet.
 
 What is working?
 
-* Use the 'Rules' module to make more advanced workflows
+* Use the [Rules](http://drupal.org/project/rules "Visit Rules project page on drupal.org") module to make more advanced workflows
 * A Notificare notification is fired
 
 What is not working?
