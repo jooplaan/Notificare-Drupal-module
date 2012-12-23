@@ -3,6 +3,7 @@ description = Use the Notificare service
 version = "7.0.1"
 package = Other
 core = 7.x
+dependencies[] = rules
 configure = admin/config/workflow/notificare
 files[] = notificare.rules.inc
 
