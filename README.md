@@ -7,7 +7,6 @@ It is not fully functional yet.
 
 What is working?
 
-* Use the Drupal Core 'Actions' and 'Triggers' modules to create a message that can be sent to Notificare
 * Use the 'Rules' module to make more advanced workflows
 * A Notificare notification is fired
 
